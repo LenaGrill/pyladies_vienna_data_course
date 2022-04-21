@@ -1,6 +1,6 @@
 # Installation
 
-Installing everything you need is not complicated and should only take a moment. If you exceprience any trouble during installation, ask mentors directly or via Slack any time later. 
+Installing everything you need is not complicated and should only take a moment. If you experience any trouble during installation, ask mentors directly or via Slack any time later. 
 
 First step is to have Python installed. Check if your version is higher than Python 3.6. If not, or you do not have python installed, please follow instructions [in beginners course](https://pyladiesvienna.pythonanywhere.com/2022/pyladies-en-vienna-2022-data-science/beginners-en/install_vienna/)
 
@@ -16,7 +16,7 @@ If you don't know how to do this step, the complete instructions can be found [h
 
 A virtual environment is an isolated Python environment where a project's dependencies are installed in a different directory from those installed in the system's default Python path (and other virtual environments). This way packages you install in PyData course environment will not affect other parts of your work.
 
-Each time you want to use command line for PyData course, you will need to activate the virtual environment so that you can easily work with with the libraries and tools installed in it.
+Each time you want to use command line for PyData course, you will need to activate the virtual environment so that you can easily work with the libraries and tools installed in it.
 
 
 ## Installing libraries
